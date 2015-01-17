@@ -1,0 +1,22 @@
+Project Design:
+
+
+Data Structures:
+- Queue 
+	- Array 
+	- LinkedList 
+- Stack
+	- Array
+	- LinkedList
+
+Algorithms:
+- Breadth-first search
+- Depth-first search
+
+SORTING
+- Bubble sort
+- Heap sort
+- Insertion sort
+- Quick sort
+- Merge sort
+- Selection sort
